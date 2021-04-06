@@ -2,6 +2,7 @@
 
 #### Description
 > Note: It isn't a Qt official library.
+
 Qtssl is a library that can encrypt/decrypt in Qt.
 
 #### Supported algorithms
